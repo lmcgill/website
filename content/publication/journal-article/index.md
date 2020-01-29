@@ -3,18 +3,15 @@ abstract: In the Laurentian Great Lakes, introduced Pacific salmon (Oncorhynchus
 
 authors:
 - admin
-- Brandon Gerig
-- Dominic Chaloner
-- Gary Lamberti
+- B.S. Gerig
+- D.T Chaloner
+- G.A. Lamberti
 date: "2015-09-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.ecolmodel.2017.03.027"
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+
 projects: []
-publication: '*Ecological Modelling*(1)'
+publication: '*Ecological Modelling*'
 publication_short: ""
 publication_types:
 - "2"
@@ -34,5 +31,3 @@ url_source: ""
 url_video: ""
 ---
 
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
