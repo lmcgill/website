@@ -5,7 +5,7 @@ abstract: "Pacific salmon (Oncoryhnchus spp.) and brown trout (Salmo trutta) are
 
 title: "Interactive effects of introduced Pacific salmon and brown trout on native brook trout: an experimental and modeling approach"
 subtitle: ""
-summary: We ran a mesocosm experiment and a simulation model to test if salmon tissue consumption influences brook trout growth, isotopic ratios, and mercury concentrations and whether these were modified by brown trout.
+summary: We used lab experiments and models to test if eating salmon influences trout growth, isotopic ratios, and mercury concentrations.
 
 
 authors: [B.S. Gerig, D.N. Weber, D.T. Chaloner, L.M. McGill, G.A. Lamberti]
