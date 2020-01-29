@@ -20,7 +20,7 @@ organizations:
   url: "https://www.washington.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a quantitative ecologist! I got my B.S. in Environmental Science and Applied Math and Statistics from the University of Notre Dame in 2016. 
+bio: "" 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,5 +52,9 @@ email: ""
 # - Visitors
 ---
 
-I am a quantitative ecologist! I got my B.S. in Environmental Science and Applied Math and Statistics from the University of Notre Dame in 2016. 
+Welcome! I am a fourth year graduate student in <a href="https://uw.edu/"> University of Washington's </a> <a href="https://quantitative.uw.edu/graduate/"> Quantitative Ecology and Resource Management </a> program, where I work with Drs. <a href="https://www.fs.fed.us/pnw/lwm/aem/people/steel.html/"> E. Ashley Steel </a> and <a href="http://holtgrievelab.uw.edu/"> Gordon Holtgrieve </a>. I primarily study freshwater, specifically how river water source, temperature and hydrology have changed in the past and are likely to change in the future. I approach this topic using spatiotemporal statistics, stable isotopes, and publicly available river discharge data. Ultimately, my research aims to help resource managers maintain ecosystem function and habitat in the face of climate change by understanding what climate driven changes to rivers have already occurred and by developing inexpensive, broadly applicable tools to understand what river basins may be at risk in the future.
+
+I graduated from the University of Notre Dame in 2016 with a B.S. in Environmental Science and Applied Math and Statistics. While at Notre Dame I worked in the <a href="https://swel.nd.edu/"> Stream and Wetland Ecology Laboratory </a>, using ecosystem modelling to assess how salmon biotransport of contaminants influenced stream-resident brook and brown trout in the Great Lakes region.  
+
+Outside of work I enjoy a typical suite of Pacific Northwest activites: hiking, cross-country skiing, indoor and outdoor gardening, visiting coffeee shops and breweries, playing with dogs, trying to attract birds to my bird feeders, baking, and eating said baked goods. Feel free to reach out if you have any questions about Seattle, UW, QERM, or my research!  
 
