@@ -12,11 +12,13 @@ authors: [B.S. Gerig, D.N. Weber, D.T. Chaloner, L.M. McGill, G.A. Lamberti]
 tags:
 - Source Themes
 categories: []
-date: 2017-01-28T18:44:54-08:00
+date: 2017-05-28T18:44:54-08:00
 lastmod: 2020-01-28T18:44:54-08:00
 featured: false
 draft: false
-doi: "https://doi.org/10.1016/j.ecolmodel.2017.03.027"
+doi: "https://doi.org/10.1139/cjfas-2016-0502"
+url_pdf: "Gerig2017.pdf" #http://arxiv.org/pdf/1512.04133v1
+
 publication_types:
 - "2"
 publication: '*Canadian Journal of Fisheries and Aquatic Sciences*'
