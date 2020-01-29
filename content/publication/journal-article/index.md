@@ -1,12 +1,6 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
-authors:
+abstract: In the Laurentian Great Lakes, introduced Pacific salmon (Oncorhynchus spp.) can transport persistent organic pollutants and heavy metals to tributaries during their annual spawning migrations. To evaluate contaminant biotransport by spawning Pacific salmon, we developed a mass-balance ecosystem model for a Lake Huron tributary using Ecopath with Ecosim (EwE) and Ecotracer. Within EwE and Ecotracer, we developed scenarios that reflected a range of salmon biomass inputs and different trophic pathways to predict polychlorinated biphenyls (PCB) and mercury (Hg) burdens of Brown Trout, Brook Trout, and Mottled Sculpin. Our model accurately predicted PCB concentrations in stream-resident fish across a range of salmon spawner densities. However, we were unable to similarly predict Hg concentrations of stream-resident fish. Our modeling results suggest that salmon inputs specifically control PCB concentrations in stream-resident fish whereas Hg concentrations are more strongly influenced by diffuse background sources. Our model highlights how species-specific differences in diet and growth, along with trophic pathways, can influence the magnitude of contaminant impacts by spawning salmon. Insights from our study suggest that an EwE approach could be used to evaluate other legacy and emerging bioaccumulative contaminants in a variety of ecosystems.
+authors:L.M McGill, B. Gerig, D.T. Chaloner, G.A. Lamberti
 - admin
 - Robert Ford
 date: "2015-09-01T00:00:00Z"
@@ -17,17 +11,17 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Ecological Modelling*(1)'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides: ""
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example journal article
+title: An ecosystem model for evaluating the effects of introduced Pacific salmon on contaminant burdens of stream-resident fish
 url_code: ""
 url_dataset: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
@@ -38,12 +32,5 @@ url_source: ""
 url_video: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
