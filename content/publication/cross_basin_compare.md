@@ -14,7 +14,7 @@ date: 2020-01-29T12:07:04-08:00
 lastmod: 2020-01-29T12:07:04-08:00
 featured: false
 draft: false
-doi: "https://doi.org/10.1139/cjfas-2016-0502"
+doi: "https://doi.org/10.1016/j.jhydrol.2020.124610"
 url_pdf: "McGill2020.pdf" #http://arxiv.org/pdf/1512.04133v1
 
 publication_types:
