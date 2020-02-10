@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-date: "2016-04-27T00:00:00Z"
+date: "2017-07-27T00:00:00Z"
 external_link: ""
 
 image: 
-  caption: test
+  caption: Locations of study basins, the Snoqualmie (A), Green (B), Skagit (C), and Wenatchee (D) Rivers in Washington and Cowee Creek (E) in SE Alaska. Water samples are shown in yellow, red points indicate a major dam, and blue shading indicates an ice mass.
   focal_point: Smart
 
 slides: 
