@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "West Coast Hydrograph"
+title: "Western North America River Discharge Trends"
 subtitle: ""
 summary: " "
 authors: [L.M. McGill, G.H. Holtgrieve]
