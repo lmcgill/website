@@ -58,7 +58,7 @@ education:
   - course: PhD in Quantitative Ecology and Resource Management
     institution: University of Washington
     year: In progress
-  - course: BS in Environmental Science, Applied and Computational Mathematics and Statistics
+  - course: BS in Environmental Science & Applied and Computational Mathematics and Statistics
     institution: University of Notre Dame
     year: 2016
     
