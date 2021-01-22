@@ -48,22 +48,19 @@ email: ""
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Spatiotemporal statistics
+- Hydrology
+- Aquatic ecology 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Quantitative Ecology and Resource Management
+    institution: University of Washington
+    year: In progress
+  - course: BS in Environmental Science, Applied and Computational Mathematics and Statistics
+    institution: University of Notre Dame
+    year: 2016
     
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
