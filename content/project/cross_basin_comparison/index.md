@@ -4,13 +4,13 @@ date: "2017-07-27T00:00:00Z"
 external_link: ""
 
 image: 
-  caption: Locations of study basins, the Snoqualmie (A), Green (B), Skagit (C), and Wenatchee (D) Rivers in Washington and Cowee Creek (E) in SE Alaska. Water samples are shown in yellow, red points indicate a major dam, and blue shading indicates an ice mass.
+  caption: Isoscapes from the Snoqualmie best-fit linear model (A), Snoqualmie best-fit SSNM (B), Wenatchee best-fit linear model (C), and Wenatchee best-fit SSNM (D).
   focal_point: Smart
 
 slides: 
 summary: " "
 tags:
-title: Cross Basin Isotope Comparison
+title: Surface Water Isoscapes Across Basins 
 url_code: ""
 url_pdf: ""
 url_slides: ""

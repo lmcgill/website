@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Snoqualmie River Water Sources"
+title: "Water Sources in a Mountain River"
 subtitle: ""
 summary: " "
 authors: [L.M. McGill, J.R. Brooks, E.A. Steel, A.H. Fullerton]

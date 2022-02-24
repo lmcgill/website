@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Western North America River Discharge Trends"
+title: "Trends in Western North America River Discharge"
 subtitle: ""
 summary: " "
 authors: [L.M. McGill, G.H. Holtgrieve]
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "All basins used in this study, colored by the number of years of usable data."
+  caption: "Hydrographs of normalized mean daily streamflow for three seasonal flow regime classes: snow, mixed, and rain, colored by state and ordered by latitude within state. The black dotted line shows April 1st, which is commonly considered the date of peak SWE across western North America. The y-axis is shown on a linear scale."
   focal_point: ""
   preview_only: false
 
