@@ -6,7 +6,7 @@ abstract: Many people worldwide lack adequate access to clean water to meet basi
 title: "A guide to forest–water management (Chapter 3: Manging Forests for Water)"
 subtitle: ""
 summary: "A review of emerging techniques and methodologies, guidance and recommendations on how to manage forests for their water ecosystem services."
-authors: [L.M. McGill, J.R. Brooks, E.A Steel]
+authors: [S. McNulty, E.A. Steel, E. Springgay, B. Caldwell, K. Shono, G. Pess, S. Funge-Smith, W. Richards, S. Ferraz, D. Neary, J. Long, B. Verbist, J. Leonard, G. Sun, T. Beechie, M. Lo, L.M. McGill, A.H. Fullerton, S. Borelli]
 
 
 tags: []
