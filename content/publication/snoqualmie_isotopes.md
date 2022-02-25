@@ -6,7 +6,7 @@ abstract: In mountainous river basins of the Pacific Northwest, climate models p
 
 title: "Spatiotemporal dynamics of water sources in a mountain river basin inferred through δ2H and δ18O of water"
 subtitle: ""
-summary: "Geologic and discharge data was integrated with water isotopes to create a conceptual model of streamflow generation for the Snoqualmie River. "
+summary: "Geologic and discharge data was integrated with water isotopes to create a conceptual model of streamflow generation. "
 authors: [L.M. McGill, J.R. Brooks, E.A Steel]
 
 
