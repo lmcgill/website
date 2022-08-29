@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: NSF Graduate Research Fellow
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "lmcgill@uw.edu".
+  link: '#contact'  # For a direct email link, use "lmmcgill@ucsd.edu".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=v6-i3ToAAAAJ&hl=en&oi=ao
@@ -57,7 +57,7 @@ education:
   courses:
   - course: PhD in Quantitative Ecology and Resource Management
     institution: University of Washington
-    year: In progress
+    year: 2022
   - course: BS in Environmental Science & Applied and Computational Mathematics and Statistics
     institution: University of Notre Dame
     year: 2016
@@ -69,8 +69,8 @@ education:
 # - Visitors
 ---
 
-Welcome! I am a PhD Candidate in <a href="https://uw.edu/"> University of Washington's </a> <a href="https://quantitative.uw.edu/graduate/"> Quantitative Ecology and Resource Management </a> program, where I work with Drs. <a href="https://www.fs.fed.us/pnw/lwm/aem/people/steel.html/"> E. Ashley Steel </a> and <a href="http://holtgrievelab.uw.edu/"> Gordon Holtgrieve</a>. Broadly, I'm interested in harnessing quantitative methods to address questions in freshwater science. Working at spatial scales the size of continents and over time periods spanning decades, I've become adept gathering, wrangling, and integrating high volume data of various types to generate novel insights. 
+Welcome! I am a postdoctoral researcher at <a href="https://scripps.ucsd.edu/"> Scripps Institution of Oceanography </a> in the <a href="https://semmenslab.org/"> Semmens </a> and <a href="https://cpetrik.scrippsprofiles.ucsd.edu/"> Petrik </a> Labs, where I work on modeling the fate and transport of pollutants from the recently rediscovered San Pedro Basin barrel field though the California pelagic food web. Broadly, I'm interested in harnessing quantitative methods to address questions in aquatic science. Working at spatial scales the size of continents and over time periods spanning decades, I've become adept gathering, wrangling, and integrating high volume data of various types to generate novel insights. 
 
-My dissertation research focuses on understanding how river water source, temperature and hydrology have changed in the past and are likely to change in the future. Ultimately, my research aims to help resource managers maintain ecosystem function and habitat by understanding what climate driven changes to rivers have already occurred and by developing inexpensive, broadly applicable tools to understand what river basins may be at risk in the future. 
+I obtained my PhD from <a href="https://uw.edu/"> University of Washington's </a> <a href="https://quantitative.uw.edu/graduate/"> Quantitative Ecology and Resource Management </a> program, where I worked with Drs. <a href="https://www.fs.fed.us/pnw/lwm/aem/people/steel.html/"> E. Ashley Steel </a> and <a href="http://holtgrievelab.uw.edu/"> Gordon Holtgrieve</a>. My dissertation research focused on understanding how river water source, temperature and hydrology have changed in the past and are likely to change in the future. My dissertation research aimed to help resource managers maintain ecosystem function and habitat by understanding what climate driven changes to rivers have already occurred and by developing inexpensive, broadly applicable tools to understand what river basins may be at risk in the future. 
 
 
