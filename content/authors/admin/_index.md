@@ -14,10 +14,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Quantitative Ecology and Resource Management
-  url: "https://quantitative.uw.edu/graduate/"
-- name: University of Washington 
-  url: "https://www.washington.edu/"
+- name: Scripps Institution of Oceanography 
+  url: "https://scripps.ucsd.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" 
@@ -49,8 +47,8 @@ email: ""
 # Interests to show in About widget
 interests:
 - Spatiotemporal statistics
-- Hydrology
 - Aquatic ecology 
+- Stable isotopes
 
 # Education to show in About widget
 education:
