@@ -46,9 +46,9 @@ email: ""
 
 # Interests to show in About widget
 interests:
-- Spatiotemporal statistics
+- Quantitative methods
 - Aquatic ecology 
-- Stable isotopes
+- Actionable science
 
 # Education to show in About widget
 education:
