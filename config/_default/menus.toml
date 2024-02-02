@@ -22,5 +22,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "McGill_CV_2023_2Page.pdf"
+  url = "McGill_CV_2024_2Page.pdf"
   weight = 50
